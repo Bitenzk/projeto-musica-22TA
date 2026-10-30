@@ -12,6 +12,6 @@ CREATE TABLE musica_vitorbitencourt (
 INSERT INTO musica_vitorbitencourt (titulo, artista, genero, ano, duracao) VALUES
 ('Evidências', 'Chitãozinho e Xororó', 'Sertanejo', 1990, 5),
 ('Garota de Ipanema', 'Tom Jobim', 'Bossa nova', 1962, 5),
-('10 MINUTINHOS TAMBOR CARALH@DA', 'DJ Zigão da Brasília', 'FUNK', 2026, 5);
+('10 MINUTINHOS TAMBOR C@R@LH@D@', 'DJ Zigão da Brasília', 'FUNK', 2026, 5);
 
 SELECT * FROM musica_vitorbitencourt
